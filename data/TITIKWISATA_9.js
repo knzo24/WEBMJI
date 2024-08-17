@@ -1,0 +1,1 @@
+var json_TITIKWISATA_9 = {"type":"FeatureCollection","name":"TITIKWISATA_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","TITIK":"WATERBOOM HRD 77"},"geometry":{"type":"Point","coordinates":[117.205352438640247,-0.873929764096706]}}]}
